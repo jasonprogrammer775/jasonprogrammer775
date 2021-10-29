@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/jasonprogrammer775" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jasonprogrammer775" height="30" width="40" /></a>
 <a href="https://twitter.com/jason08496929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jason08496929" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jasonprogrammer91/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jasonprogrammer91/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jasonprogrammer91/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jasonprogrammer91/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc_oo74ihoqxvzxzy_butvaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc_oo74ihoqxvzxzy_butvaw" height="30" width="40" /></a>
 </p>
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><h3 align="left">Languages and Tools:</h3>
