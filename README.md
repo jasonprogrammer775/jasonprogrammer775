@@ -30,3 +30,7 @@
 
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jasonprogrammer775/jasonprogrammer775/blob/master/devcard.svg" width="400" alt="jason programmer's Dev Card"/></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonprogrammer775&show_icons=true&theme=radical)
+
