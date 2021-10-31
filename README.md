@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [For-each over an array in JavaScript](https://dev.to/jasonprogrammer775/for-each-over-an-array-in-javascript-3a5j)
+- [How can I remove a specific item from an array?](https://dev.to/jasonprogrammer775/how-can-i-remove-a-specific-item-from-an-array-2np2)
+- [How do JavaScript closures work?](https://dev.to/jasonprogrammer775/how-do-javascript-closures-work-emo)
+- [devops,](https://dev.to/jasonprogrammer775/devops-4dkc)
 <!-- BLOG-POST-LIST:END -->
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
