@@ -3,7 +3,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+github+page)](https://git.io/typing-svg)
   
-<h3 align="center">A passionate frontend developer from The Netherlands</h3>
+<h3 align="center">A passionate Full Stack Web Developer from The Netherlands</h3>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonprogrammer775&label=Profile%20views&color=0e75b6&style=flat" alt="jasonprogrammer775" /> </p>
 
