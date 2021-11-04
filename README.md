@@ -19,8 +19,8 @@
 - [devops,](https://dev.to/jasonprogrammer775/devops-4dkc)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 
