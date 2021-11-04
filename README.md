@@ -20,6 +20,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
+- [vs code](https://www.youtube.com/watch?v=9bQe8H6_rRs)
+- [Mars   53738](https://www.youtube.com/watch?v=S7CRHwzTo1I)
 <!-- YOUTUBE:END -->
 
 
