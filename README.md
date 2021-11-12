@@ -18,7 +18,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonprogrammer775&theme=radical" alt="jasonprogrammer775" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jason08496929" target="blank"><img src="https://img.shields.io/twitter/follow/jason08496929?logo=twitter&style=for-the-badge" alt="jason08496929" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jason08496929" target="blank"><img src="https://img.shields.io/twitter/follow/jason08496929?logo=twitter&style=for-the-badge" alt="jason08496929" /></a> </p> 
+
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jason08496929)](https://github.com/gazf/github-readme-twitter)
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
