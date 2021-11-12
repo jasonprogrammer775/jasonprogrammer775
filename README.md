@@ -81,8 +81,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programmer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
+[![wakatime](https://wakatime.com/badge/user/355bfc85-b797-4c4e-9f20-9e4f7287ed02.svg)](https://wakatime.com/@355bfc85-b797-4c4e-9f20-9e4f7287ed02)
 
 
 <!--START_SECTION:activity-->
