@@ -37,7 +37,13 @@
 
 
 
-### Blogs posts
+## My Latest Blog Posts 👇
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
+
+
 <!-- BLOG-POST-LIST:START -->
 - [For-each over an array in JavaScript](https://dev.to/jasonprogrammer775/for-each-over-an-array-in-javascript-3a5j)
 - [How can I remove a specific item from an array?](https://dev.to/jasonprogrammer775/how-can-i-remove-a-specific-item-from-an-array-2np2)
