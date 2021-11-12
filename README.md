@@ -23,9 +23,10 @@
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jason08496929)](https://github.com/gazf/github-readme-twitter)
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jasonprogrammer91">
+
+
+
 
 
 
