@@ -1,19 +1,23 @@
-
-name: hashnode
+name: "📚 Blog Updater"
 
 on:
-  # Run workflow automatically
+  workflow_dispatch:
   schedule:
-    # Runs every hour, on the hour
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update_blogs:
+    name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          # comma-separated list of RSS feed urls
-          feed_list: "https://hashnode.com/@programmer512/rss.xml"
+          USERNAME: 'programmer512' # Hashnode Username
+          COUNT: 10 # MAX Visisble
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
