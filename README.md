@@ -10,7 +10,7 @@
 <h1> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> i'm Jason</h1>
 <p align='center'>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+github+page)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23F729B1&center=true&width=404&height=44&lines=Welcome+to+my+github+page.)](https://git.io/typing-svg)
   
 <h3 align="center">A passionate Full Stack Web Developer from The Netherlands</h3>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -62,6 +62,8 @@
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programmer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
