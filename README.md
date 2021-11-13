@@ -90,6 +90,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/355bfc85-b797-4c4e-9f20-9e4f7287ed02.svg)](https://wakatime.com/@355bfc85-b797-4c4e-9f20-9e4f7287ed02)
 
+![](https://gitwar.herokuapp.com/badge?username=jasonprogrammer775)
+
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/jasonprogrammer775/glitch1/pull/1) in [jasonprogrammer775/glitch1](https://github.com/jasonprogrammer775/glitch1)
