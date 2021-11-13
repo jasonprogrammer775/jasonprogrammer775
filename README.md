@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?text=Github.&fontColor=d6ace6&animation=fadeIn)
+
 
 
 
