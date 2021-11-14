@@ -97,7 +97,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/jasonprogrammer775/git1/pull/3) in [jasonprogrammer775/git1](https://github.com/jasonprogrammer775/git1)
+1. 🎉 Merged PR [#6](https://github.com/jasonprogrammer775/smiling-robin/pull/6) in [jasonprogrammer775/smiling-robin](https://github.com/jasonprogrammer775/smiling-robin)
 <!--END_SECTION:activity-->
 
 
