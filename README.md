@@ -95,7 +95,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jasonprogrammer775/glitch1/pull/1) in [jasonprogrammer775/glitch1](https://github.com/jasonprogrammer775/glitch1)
+1. 💪 Opened PR [#3](https://github.com/jasonprogrammer775/git1/pull/3) in [jasonprogrammer775/git1](https://github.com/jasonprogrammer775/git1)
 <!--END_SECTION:activity-->
 
 
