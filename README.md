@@ -97,7 +97,7 @@
 
 
 
-![snake gif](https://github.com/jasonprogrammer775/jasonprogrammer775/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jasonprogrammer775/jasonprogrammer775/blob/output/github-contribution-grid-snake.svg)
 
 
 
