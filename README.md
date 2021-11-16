@@ -97,6 +97,11 @@
 
 
 
+![snake gif](https://github.com/jasonprogrammer775/jasonprogrammer775/blob/output/github-contribution-grid-snake.gif)
+
+
+
+
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#2](https://github.com/jasonprogrammer775/github-pages-with-jekyll/pull/2) in [jasonprogrammer775/github-pages-with-jekyll](https://github.com/jasonprogrammer775/github-pages-with-jekyll)
 <!--END_SECTION:activity-->
