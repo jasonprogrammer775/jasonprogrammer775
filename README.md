@@ -8,14 +8,25 @@
 
 
 
-
 <h1> Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> i'm Jason</h1>
 <p align='center'>
   
+
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23F729B1&center=true&width=404&height=44&lines=Welcome+to+my+github+page.)](https://git.io/typing-svg)
   
+  ```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```  
+
 <h3 align="center">A passionate Full Stack Web Developer from The Netherlands</h3>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> 
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonprogrammer775&label=Profile%20views&color=0e75b6&style=flat" alt="jasonprogrammer775" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonprogrammer775&theme=radical" alt="jasonprogrammer775" /></a> </p>
