@@ -110,4 +110,5 @@ puts markdown.to_html
 <!--END_SECTION:activity-->
 
 
-
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
