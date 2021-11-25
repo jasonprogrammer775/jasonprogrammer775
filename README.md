@@ -106,7 +106,7 @@ puts markdown.to_html
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/jasonprogrammer775/github-pages-with-jekyll/pull/2) in [jasonprogrammer775/github-pages-with-jekyll](https://github.com/jasonprogrammer775/github-pages-with-jekyll)
+1. 🎉 Merged PR [#1](https://github.com/jasonprogrammer775/gatsman/pull/1) in [jasonprogrammer775/gatsman](https://github.com/jasonprogrammer775/gatsman)
 <!--END_SECTION:activity-->
 
 
