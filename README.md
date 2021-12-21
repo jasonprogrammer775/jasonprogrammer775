@@ -13,7 +13,14 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```  
-
+  
+ ```javascript
+function test(){
+	console.log("Hello world!");
+}
+```
+  
+  
 <h3 align="center">A passionate Full Stack Web Developer from The Netherlands</h3>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> 
 
