@@ -114,10 +114,10 @@ function test(){
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 3 tasks so far           
-⏳  Longest streak is 0 days
+🏆  250 Karma Points           
+🌸  Completed 6 tasks today           
+✅  Completed 6 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 [![Todoist Readme](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/Todoist.yml/badge.svg)](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/Todoist.yml)
