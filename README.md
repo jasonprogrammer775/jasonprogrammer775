@@ -96,8 +96,7 @@ function test(){
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonprogrammer775&show_icons=true&theme=radical)
 
 
-
-
+<!--START_SECTION:activity-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programmer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
