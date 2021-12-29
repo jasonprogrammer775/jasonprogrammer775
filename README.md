@@ -97,16 +97,16 @@ function test(){
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jasonprogrammer775/googlecodelabs/pull/1) in [jasonprogrammer775/googlecodelabs](https://github.com/jasonprogrammer775/googlecodelabs)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programmer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-2. 💪 Opened PR [#1](https://github.com/jasonprogrammer775/googlecodelabs/pull/1) in [jasonprogrammer775/googlecodelabs](https://github.com/jasonprogrammer775/googlecodelabs)
+[![wakatime](https://wakatime.com/badge/user/355bfc85-b797-4c4e-9f20-9e4f7287ed02.svg)](https://wakatime.com/@355bfc85-b797-4c4e-9f20-9e4f7287ed02)
 
-3. 🎉 Merged PR [#1](https://github.com/jasonprogrammer775/gatsman/pull/1) in [jasonprogrammer775/gatsman](https://github.com/jasonprogrammer775/gatsman)
+![](https://gitwar.herokuapp.com/badge?username=jasonprogrammer775)
 
 
 
-4. 💪 Opened PR [#1](https://github.com/jasonprogrammer775/gatsman/pull/1) in [jasonprogrammer775/gatsman](https://github.com/jasonprogrammer775/gatsman)
+![snake gif](https://github.com/jasonprogrammer775/jasonprogrammer775/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -123,10 +123,16 @@ function test(){
 
 
 
-
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=obbdz2ykyr52jumqi5lq1zp0c&unique={true|1|on|yes})
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
+
+
+
+
+
+
+
