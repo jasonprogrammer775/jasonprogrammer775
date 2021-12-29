@@ -120,8 +120,7 @@ function test(){
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
-
-
+[![Todoist Readme](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/Todoist.yml/badge.svg)](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/Todoist.yml)
 
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
