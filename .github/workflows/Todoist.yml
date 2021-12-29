@@ -9,7 +9,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update todoist stats
+    name: Update Todoist stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
