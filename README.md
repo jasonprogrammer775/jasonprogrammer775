@@ -126,13 +126,12 @@ function test(){
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=obbdz2ykyr52jumqi5lq1zp0c&unique={true|1|on|yes})
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
 
 <br/>  
 
 
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=obbdz2ykyr52jumqi5lq1zp0c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
