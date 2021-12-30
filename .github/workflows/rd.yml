@@ -1,3 +1,5 @@
+
+name: stack
 on:
     push:
         branches:
@@ -9,6 +11,21 @@ jobs:
         name: A job to automate contrib in readme
         steps:
             - name: Contribute List
-              uses: ******@***.***
+            - uses: ******@***.***
+              
+              
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
+
+
+
+jobs:
+  profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gleich/profile_stack@master
