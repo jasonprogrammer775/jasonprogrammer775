@@ -1,5 +1,5 @@
 
-name: stack
+name: rd
 on:
     push:
         branches:
