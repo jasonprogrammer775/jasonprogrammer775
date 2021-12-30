@@ -126,8 +126,8 @@ function test(){
 <!-- readme: contributors -end -->
 
 
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=obbdz2ykyr52jumqi5lq1zp0c&unique={true|1|on|yes})
 <br/>  
