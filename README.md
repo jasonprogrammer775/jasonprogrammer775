@@ -125,7 +125,7 @@ function test(){
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
 
-
+[![Waka Readme](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/update-readme.yml/badge.svg)](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/update-readme.yml)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
