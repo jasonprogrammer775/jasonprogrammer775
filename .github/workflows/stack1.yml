@@ -1,4 +1,4 @@
-- name: stack1
+ name: stack1
   logo: go
   url: https://golang.org/
   color: '#7FD6EA'
@@ -9,7 +9,7 @@
     - url: https://github.com/gleich/logoru
     - url: https://github.com/gleich/statuser
 
-- name: Python
+ name: Python
   logo: python
   url: https://www.python.org/
   color: '#3C78A9'
