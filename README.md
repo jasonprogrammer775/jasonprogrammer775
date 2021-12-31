@@ -22,7 +22,8 @@ function test(){
   
   
 <h3 align="center">A passionate Full Stack Web Developer from The Netherlands</h3>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2> 
+
+<h2> About Me <img src= "https://user-images.githubusercontent.com/74604447/147796991-7cde9681-19ed-4174-840e-2c450a4c2e87.gif" </h2>
 
 
 
