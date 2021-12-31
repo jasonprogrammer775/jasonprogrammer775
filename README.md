@@ -71,7 +71,6 @@ function test(){
 - [Set Up Next JS With Jest, React Testing Library and Playwright.](https://www.youtube.com/watch?v=o3kZ5Ntw8nw)
 - [vs code](https://www.youtube.com/watch?v=9bQe8H6_rRs)
 - [Mars   53738](https://www.youtube.com/watch?v=S7CRHwzTo1I)
-
 <!-- YOUTUBE:END -->
 
 	
