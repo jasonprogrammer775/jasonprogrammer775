@@ -64,15 +64,23 @@ function test(){
 - [devops,](https://dev.to/jasonprogrammer775/devops-4dkc)
 <!-- BLOG-POST-LIST:END -->
 
+
+
 <!-- YOUTUBE:START -->
 - [Congratulations on deploying your Kubernetes app](https://www.youtube.com/watch?v=fQL8M2epD2o)
 - [Set Up Next JS With Jest, React Testing Library and Playwright.](https://www.youtube.com/watch?v=o3kZ5Ntw8nw)
 - [vs code](https://www.youtube.com/watch?v=9bQe8H6_rRs)
 - [Mars   53738](https://www.youtube.com/watch?v=S7CRHwzTo1I)
+
 <!-- YOUTUBE:END -->
 
+	
 [![Latest blog post workflow](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/blog-post-workflow.yml)
 [![Latest youtube workflow](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/youtube.yml/badge.svg)](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/youtube.yml)
+	
+
+	
+	
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
