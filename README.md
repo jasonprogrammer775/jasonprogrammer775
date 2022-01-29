@@ -53,7 +53,6 @@ function test(){
 
 <!-- HASHNODE_BLOG:START -->
 - [My First Blog on HashNode.](https://programmer512.hashnode.dev/my-first-blog-on-hashnode-ckvkkrdfm09tc7ls13qw29ew7)
-- [My First Blog on HashNode.](https://programmer512.hashnode.dev/my-first-blog-on-hashnode-ckvkkrdfm09tc7ls13qw29ew7)
 <!-- HASHNODE_BLOG:END -->
 
 
