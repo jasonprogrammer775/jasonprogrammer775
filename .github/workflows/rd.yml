@@ -3,11 +3,11 @@
 on:
     push:
         branches:
-            - main
+            - master
 
 jobs:
     contrib-readme-job:
-        runs-on: ubuntu-latest
+        runs-on: Node.js 16
         name: A job to automate contrib in readme
         steps:
             - name: Contribute List
