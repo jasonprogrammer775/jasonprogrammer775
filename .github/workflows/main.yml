@@ -7,13 +7,13 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: "0 0 * * *"
 
 jobs:
   devcard:
-    runs-on: ubuntu-latest
+    runs-on: node.js 16
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@v3
