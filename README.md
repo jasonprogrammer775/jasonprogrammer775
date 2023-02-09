@@ -98,7 +98,7 @@ function test(){
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonprogrammer775&theme=radical" alt="jasonprogrammer775" /></p>
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jasonprogrammer775/jasonprogrammer775/blob/master/devcard.svg" width="400" alt="jason programmer's Dev Card"/></a>
+<a href="https://app.daily.dev/jayprogrammer"><img src="https://api.daily.dev/devcards/07694795a4e0440e9a6cd2ee32a7888a.png?r=opx" width="400" alt="Jay's Dev Card"/></a>
 
 
 ![MyAwesomeWebDevStack](https://awesome-stack.glitch.me/api/v1/cards?name=Borrus-sudo&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=radical)
