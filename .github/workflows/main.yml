@@ -13,7 +13,7 @@ on:
 
 jobs:
   devcard:
-    runs-on: node.js 16
+    runs-on: 'node16'
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@v3
