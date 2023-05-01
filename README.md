@@ -36,7 +36,7 @@ function test(){
 <p align="left"> <a href="https://twitter.com/Jayprogrammer1" target="blank"><img src="https://img.shields.io/twitter/follow/Jayprogrammer1?logo=twitter&style=for-the-badge" alt="Jayprogrammer1" /></a> </p> 
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=jayprogrammer1)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Jayprogrammer1)](https://github.com/gazf/github-readme-twitter)
 
 
 
