@@ -118,9 +118,9 @@ function test(){
 4. 💪 Opened PR [#1](https://github.com/jasonprogrammer775/jwebsite/pull/1) in [jasonprogrammer775/jwebsite](https://github.com/jasonprogrammer775/jwebsite)
 
 <!--END_SECTION:activity-->
+<br/>
 
-
-	
+	[![Generate Snake](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/snake.yml/badge.svg)](https://github.com/jasonprogrammer775/jasonprogrammer775/actions/workflows/snake.yml)
 	
 
 	
