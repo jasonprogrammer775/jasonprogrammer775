@@ -6,17 +6,9 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%23F729B1&center=true&width=404&height=44&lines=Welcome+to+my+github+page.)](https://git.io/typing-svg)
   
-  ```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```  
+
   
- ```javascript
-function test(){
-	console.log("Hello world!");
-}
-```
+
   
 
 	
